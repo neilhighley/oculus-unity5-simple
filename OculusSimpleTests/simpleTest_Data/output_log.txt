@@ -1,0 +1,41 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX TITAN (ID=0x1005)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.043 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Users\neil\Desktop\Oculus\simpletest\oculus-unity5-simple\OculusSimpleTests\simpleTest_Data\Managed\System.dll (this message is harmless)
+[CAPI] LibOVR module is located at C:\Windows\SYSTEM32\LibOVRRT32_0_6.dll
+
+ 
+(Filename:  Line: 46)
+
+Unity v5.2.0f3, Oculus Utilities v0.1.0, OVRPlugin v0.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Creating volume controller...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2794 -> priority: 1 
+  Thread -> id: 2840 -> priority: 1 
+  Thread -> id: 2a98 -> priority: 1 
